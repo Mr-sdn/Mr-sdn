@@ -10,21 +10,17 @@
 
 
 ## 🖥️ Programming Languages
----
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 
 ## 💾 Databases
----
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
 ## 🔧 Tools and Development Environments
----
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
----
 ## 📚 Libraries and Frameworks
 
 ![NumPy](https://img.shields.io/badge/-NumPy-013C60?logo=numpy&logoColor=white&style=for-the-badge)

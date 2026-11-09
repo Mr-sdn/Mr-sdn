@@ -16,6 +16,12 @@ Most of my work isn't public on GitHub, so here are a few projects to show what 
 
 </div>
 
+## Open source
+
+<a href="https://github.com/Mr-sdn/ai-offline"><img src="https://raw.githubusercontent.com/Mr-sdn/ai-offline/main/docs/images/banner.webp" width="100%" alt="AI Offline: your own private AI on Windows. One click, no internet."></a>
+
+**[AI Offline](https://github.com/Mr-sdn/ai-offline)**: a ChatGPT-like AI and a coding agent that run 100% on your Windows PC. One double-click installs everything, picks the right model for your hardware, and then works without internet. Free, English and Persian. **[Download](https://github.com/Mr-sdn/ai-offline/releases/latest/download/AI-Offline.zip)**
+
 ## Selected work
 
 <p align="center">
@@ -28,7 +34,7 @@ Most of my work isn't public on GitHub, so here are a few projects to show what 
 </p>
 <p align="center">
   <a href="https://mr-sdn.github.io/?lang=en#/work/bale-chat"><img src="assets/work/bale-chat.webp" width="49%" alt="Bale Anonymous Chat: a chat bot with same-city matching, a coin wallet and an admin panel. Python."></a>
-  <a href="https://mr-sdn.github.io/?lang=en#/work/ai-offline"><img src="assets/work/ai-offline.webp" width="49%" alt="AI Offline: a private coding assistant that runs without the internet. Ollama, Qwen, Gemma."></a>
+  <a href="https://github.com/Mr-sdn/ai-offline"><img src="assets/work/ai-offline.webp" width="49%" alt="AI Offline: a private coding assistant that runs without the internet. Ollama, Qwen, Gemma."></a>
 </p>
 <p align="center">
   <a href="https://mr-sdn.github.io/?lang=en#/work/telegram-bots"><img src="assets/work/telegram-bots.webp" width="49%" alt="Telegram Bots: a sample of dozens of bots for sales, files and automation. Python, Pyrogram, FFmpeg."></a>
